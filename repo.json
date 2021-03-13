@@ -1,0 +1,38 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.test.test",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
+      "iconURL": "https://raw.githubusercontent.com/nonforgettable/altstore-repo-placeholder/main/AppIconReKairos60x60%402x.png",
+      "localizedDescription": "Demo placeholder. Installing this app will install AltStore, which may break your AltStore installation.",
+      "name": "Demo",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/nonforgettable/altstore-repo-placeholder/main/example-app1.png"
+      ],
+      "size": 2184796,
+      "subtitle": "Don't install.",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "**insert things here\n**"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [
+    {
+      "appID": "com.test.test",
+      "caption": "Demo news",
+      "date": "2021-3-14",
+      "identifier": "delta-now-available",
+      "imageURL": "https://raw.githubusercontent.com/nonforgettable/altstore-repo-placeholder/main/example-news.png",
+      "notify": false,
+      "tintColor": "018084",
+      "title": "Demo news",
+      "url": "com.test.test"
+    }
+  ],
+  "userInfo": {}
+}
